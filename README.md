@@ -3,7 +3,7 @@ This a theme for Cloud9 based upon the Atom Material theme and the FramerJs Synt
 
 Full disclosure, this was built off of [a link](https://github.com/jumbojett/c9.ide.theme.jett)
 
-<img src="screenshot.png" alt="screenshot" width="100%">
+<img src="screenshot1.png" alt="screenshot" width="100%">
 
 1. git clone
 
