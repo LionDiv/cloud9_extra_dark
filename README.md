@@ -1,9 +1,16 @@
 # cloud9_extra_dark
 This a theme for Cloud9 based upon the Atom Material theme and the FramerJs Syntax theme.
 
-Full disclosure, this was built off of [a link](https://github.com/jumbojett/c9.ide.theme.jett)
+Full disclosure, this was built off of [c9.ide.theme.jett](https://github.com/jumbojett/c9.ide.theme.jett).
+Due to my lack of knowledge of the cloud9 plugin structure; the names and installation instructions are coherent. This will change in the future.
 
-<img src="screenshot1.png" alt="screenshot" width="100%">
+# Cloud9
+
+<img src="screenshot1.png" alt="cloud9" width="100%">
+
+# Atom
+
+<img src="screenshot2.png" alt="atom" width="100%">
 
 1. git clone
 
